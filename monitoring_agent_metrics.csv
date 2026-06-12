@@ -1,0 +1,8 @@
+metric,value
+Avg Wait Before,7.450517318938371e-05
+Avg Wait After,6.73826660668766e-05
+Waiting Time Reduction %,9.55974842767295
+Customer Response Rate %,5.547387130733825
+Avg Pricing Efficiency Score (₹/kWh),13.912534426965003
+Baseline Efficiency (₹/kWh),15.0
+Efficiency Difference (Rs./kWh),-1.0874655730349971
